@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Huddle Landing Page with Alternating Feature Blocks Solution URL](https://your-solution-url.com)
+- Live Site URL: [Huddle Landing Page with Alternating Feature Blocks Live Site URL](https://huddle-page-blocks-frontend.netlify.app/)
 
 ## My process
 
@@ -45,9 +45,12 @@ Users should be able to:
 
 ### What I learned
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+  :root {
+    --pink: hsl(322, 100%, 66%);
+   --paleCyan: hsl(193, 100%, 96%);
+   --darkCyan: hsl(192, 100%, 9%);
+   --grayishBlue: hsl(208, 11%, 55%)
+    }
 ```
 
 ### Continued development
