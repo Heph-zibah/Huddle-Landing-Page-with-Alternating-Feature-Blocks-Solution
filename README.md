@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Design screenshot](./design/screenshot.pngscreenshot.jpg)
 
 ### Links
 
@@ -42,33 +42,20 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
+- Grid
+- Mobile first workflow
 ### Useful resources
 
-- [Example resource 1](https://github.com/ana-coimbra/huddle-landing-page-with-alternating-feature-blocks/blob/main/src/style.css) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://github.com/ana-coimbra/huddle-landing-page-with-alternating-feature-blocks/blob/main/src/style.css) - This helped with styling.
 
 ## Author
 
@@ -77,4 +64,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Twitter - [@undaunted_pen](https://www.twitter.com/undaunted_pen)
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to @blob repo on github, I was able to correct some styles.
