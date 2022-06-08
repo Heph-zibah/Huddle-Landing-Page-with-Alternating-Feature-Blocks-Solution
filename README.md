@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design screenshot](./design/screenshot.pngscreenshot.jpg)
+![Design screenshot](./design/screenshot.jpg)
 
 ### Links
 
