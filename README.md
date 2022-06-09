@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Huddle Landing Page with Alternating Feature Blocks Solution URL](https://your-solution-url.com)
+- Solution URL: [Huddle Landing Page with Alternating Feature Blocks Solution URL](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100/hub/responsive-huddle-landing-page-with-alternating-feature-html-and-css-FTDJtUF6Fq)
 - Live Site URL: [Huddle Landing Page with Alternating Feature Blocks Live Site URL](https://huddle-page-blocks-frontend.netlify.app/)
 
 ## My process
